@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
+:root{
+	--color-hover-menu:#FE8F01;
+}
+body{
+	font-size: 14px;
+	font-family: 'Open Sans', sans-serif;
+
+}
+header{
+	background-color: #3d3d3d;
+	padding: 10px 0;
+}
+
+#About h2{
+	text-align: center;
+	background-color: #F5F5F5;
+}
+
+#Columns h3{
+	text-align: justify;
+	margin-right: 25px;
+}	
+#counter{
+	background-color: #010101;
+	color:#FE8F01;
+	padding-left: 95px;
+}
+
+#counter i{
+	padding: 25px;
+	font-size: 35px;
+	color: #FFFFFF;
+}
+
+footer{
+	background-color: #333333;
+	color: #bababa;
+	padding: 15px 0;
+	text-align: center;
+}
+
